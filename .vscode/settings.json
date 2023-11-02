@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project_name": "DSDL ",
+    "id": "65439d185f2c9ee08143f5f1",
+    "framework": "react",
+    "typescript": false,
+    "path": "public/",
+    "componentsPath": "c:\\Users\\Dell\\OneDrive\\Desktop\\DSDL\\src\\components",
+    "screensPath": "c:\\Users\\Dell\\OneDrive\\Desktop\\DSDL\\src\\pages",
+    "styling": "CSS Modules",
+    "unit": "px",
+    "naming": "Pascal Case"
+  }
+}
